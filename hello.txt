@@ -2,3 +2,7 @@ This is the first hello file.
 
 This is the second line.
 Changes are made from IDE.
+line of code added in main branch
+thi si anothe line added i main branch
+this now called the conflift in the code, or may not called teh conflict but
+what would happend if it would lead to the issue.
